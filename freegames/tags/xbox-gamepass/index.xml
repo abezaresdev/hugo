@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xbox Gamepass on My New Hugo Site</title>
+    <link>https://abezaresdev.github.io/hugo/freegames/tags/xbox-gamepass/</link>
+    <description>Recent content in Xbox Gamepass on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abezaresdev.github.io/hugo/freegames/tags/xbox-gamepass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bloodborne</title>
+      <link>https://abezaresdev.github.io/hugo/freegames/sections/playstation/bloodborne/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://abezaresdev.github.io/hugo/freegames/sections/playstation/bloodborne/</guid>
+      <description>&lt;h1 id=&#34;bloodborne-a-dark-and-engaging-gothic-masterpiece&#34;&gt;Bloodborne: A Dark and Engaging Gothic Masterpiece&lt;/h1&gt;&#xA;&lt;p&gt;Bloodborne is an exceptional action role-playing game developed by FromSoftware.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bloodborne</title>
+      <link>https://abezaresdev.github.io/hugo/freegames/sections/xbox/bloodborne/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://abezaresdev.github.io/hugo/freegames/sections/xbox/bloodborne/</guid>
+      <description>&lt;h1 id=&#34;bloodborne-a-dark-and-engaging-gothic-masterpiece&#34;&gt;Bloodborne: A Dark and Engaging Gothic Masterpiece&lt;/h1&gt;&#xA;&lt;p&gt;Bloodborne is an exceptional action role-playing game developed by FromSoftware.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zelda: A Link Between Worlds</title>
+      <link>https://abezaresdev.github.io/hugo/freegames/sections/playstation/zelda/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://abezaresdev.github.io/hugo/freegames/sections/playstation/zelda/</guid>
+      <description>The legend awakens &amp;ldquo;Zelda: A Link Between Worlds&amp;rdquo; is a beloved action-adventure game developed by Nintendo for the Nintendo 3DS. Released as a direct sequel to &amp;ldquo;The Legend of Zelda: A Link to the Past,&amp;rdquo; it successfully combines nostalgic elements with innovative gameplay. This top-down adventure takes players on a captivating journey through the kingdom of Hyrule and the mysterious Lorule.</description>
+    </item>
+    <item>
+      <title>Zelda: A Link Between Worlds</title>
+      <link>https://abezaresdev.github.io/hugo/freegames/sections/xbox/zelda/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://abezaresdev.github.io/hugo/freegames/sections/xbox/zelda/</guid>
+      <description>The legend awakens &amp;ldquo;Zelda: A Link Between Worlds&amp;rdquo; is a beloved action-adventure game developed by Nintendo for the Nintendo 3DS. Released as a direct sequel to &amp;ldquo;The Legend of Zelda: A Link to the Past,&amp;rdquo; it successfully combines nostalgic elements with innovative gameplay. This top-down adventure takes players on a captivating journey through the kingdom of Hyrule and the mysterious Lorule.</description>
+    </item>
+  </channel>
+</rss>
