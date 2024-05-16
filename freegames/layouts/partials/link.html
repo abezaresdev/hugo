@@ -1,0 +1,29 @@
+<div class="container">
+    <div class="col-md-12 text-center">
+		<a id="NewL" class="btn btn-primary" href="https://google.com" target="_blank" >Click me</a>
+	</div>
+</div>
+
+<!-- !!! CUSTOM JS -->
+<script >
+	document.getElementById("NewL").href = {{ .Params.external_link }};
+	// document.getElementById("NewL").style.background='red';
+</script>
+
+<!-- !!! WIP CSV DYNAMIC -->
+<!-- {{ $data := getCSV "," "/static/csv/csv.csv" }}
+{{ range after 1 $data }}
+ <p>{{ index . 0 }} - {{ index . 1 }}</p>
+{{ end }} -->
+
+<!-- !!! WIP B&W IMAGE WIP-->
+<!--  <style> 
+     body {
+        text-align:center;
+     }
+     #cover-image{
+        filter: grayscale(100%);
+        -webkit-filter: grayscale(100%);
+     }
+  </style>
+  -->
