@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xbox on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/xbox/</link>
+    <link>https://example.org/tags/xbox/</link>
     <description>Recent content in Xbox on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/xbox/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/xbox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Template</title>
-      <link>http://localhost:1313/posts/template/</link>
+      <link>https://example.org/posts/template/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/template/</guid>
+      <guid>https://example.org/posts/template/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod scelerisque justo sed faucibus. Nullam quis orci id nulla bibendum facilisis sit amet et odio. Sed sed pretium leo. Curabitur aliquam varius dolor vitae gravida. Nulla facilisi. Praesent eget lectus felis.&lt;/p&gt;</description>
     </item>
   </channel>

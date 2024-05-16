@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nintendo Online</title>
-      <link>http://localhost:1313/tags/nintendo-online/</link>
+      <link>https://example.org/tags/nintendo-online/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nintendo-online/</guid>
+      <guid>https://example.org/tags/nintendo-online/</guid>
       <description></description>
     </item>
     <item>
       <title>Amazon</title>
-      <link>http://localhost:1313/tags/amazon/</link>
+      <link>https://example.org/tags/amazon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/amazon/</guid>
+      <guid>https://example.org/tags/amazon/</guid>
       <description></description>
     </item>
     <item>
       <title>Epic Games</title>
-      <link>http://localhost:1313/tags/epic-games/</link>
+      <link>https://example.org/tags/epic-games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/epic-games/</guid>
+      <guid>https://example.org/tags/epic-games/</guid>
       <description></description>
     </item>
     <item>
       <title>PC</title>
-      <link>http://localhost:1313/tags/pc/</link>
+      <link>https://example.org/tags/pc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pc/</guid>
+      <guid>https://example.org/tags/pc/</guid>
       <description></description>
     </item>
     <item>
       <title>Freegame</title>
-      <link>http://localhost:1313/tags/freegame/</link>
+      <link>https://example.org/tags/freegame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/freegame/</guid>
+      <guid>https://example.org/tags/freegame/</guid>
       <description></description>
     </item>
     <item>
       <title>Xbox Gamepass</title>
-      <link>http://localhost:1313/tags/xbox-gamepass/</link>
+      <link>https://example.org/tags/xbox-gamepass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/xbox-gamepass/</guid>
+      <guid>https://example.org/tags/xbox-gamepass/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://example.org/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://example.org/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
+      <link>https://example.org/tags/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/text/</guid>
+      <guid>https://example.org/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Chords</title>
-      <link>http://localhost:1313/tags/chords/</link>
+      <link>https://example.org/tags/chords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chords/</guid>
+      <guid>https://example.org/tags/chords/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://example.org/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://example.org/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://example.org/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://example.org/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
+      <link>https://example.org/tags/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music/</guid>
+      <guid>https://example.org/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/tags/themes/</link>
+      <link>https://example.org/tags/themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/themes/</guid>
+      <guid>https://example.org/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
+      <link>https://example.org/tags/math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/math/</guid>
+      <guid>https://example.org/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Mermaid</title>
-      <link>http://localhost:1313/tags/mermaid/</link>
+      <link>https://example.org/tags/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mermaid/</guid>
+      <guid>https://example.org/tags/mermaid/</guid>
       <description></description>
     </item>
     <item>
       <title>Epicgames</title>
-      <link>http://localhost:1313/tags/epicgames/</link>
+      <link>https://example.org/tags/epicgames/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/epicgames/</guid>
+      <guid>https://example.org/tags/epicgames/</guid>
       <description></description>
     </item>
     <item>
       <title>Gamepass</title>
-      <link>http://localhost:1313/tags/gamepass/</link>
+      <link>https://example.org/tags/gamepass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gamepass/</guid>
+      <guid>https://example.org/tags/gamepass/</guid>
       <description></description>
     </item>
     <item>
       <title>Xbox</title>
-      <link>http://localhost:1313/tags/xbox/</link>
+      <link>https://example.org/tags/xbox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/xbox/</guid>
+      <guid>https://example.org/tags/xbox/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
+      <link>https://example.org/tags/emoji/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <guid>https://example.org/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

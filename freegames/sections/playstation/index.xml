@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PlayStation Network on My New Hugo Site</title>
-    <link>http://localhost:1313/sections/playstation/</link>
+    <link>https://example.org/sections/playstation/</link>
     <description>Recent content in PlayStation Network on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sections/playstation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/sections/playstation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bloodborne</title>
-      <link>http://localhost:1313/sections/playstation/bloodborne/</link>
+      <link>https://example.org/sections/playstation/bloodborne/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sections/playstation/bloodborne/</guid>
+      <guid>https://example.org/sections/playstation/bloodborne/</guid>
       <description>&lt;h1 id=&#34;bloodborne-a-dark-and-engaging-gothic-masterpiece&#34;&gt;Bloodborne: A Dark and Engaging Gothic Masterpiece&lt;/h1&gt;&#xA;&lt;p&gt;Bloodborne is an exceptional action role-playing game developed by FromSoftware.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zelda: A Link Between Worlds</title>
-      <link>http://localhost:1313/sections/playstation/zelda/</link>
+      <link>https://example.org/sections/playstation/zelda/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sections/playstation/zelda/</guid>
+      <guid>https://example.org/sections/playstation/zelda/</guid>
       <description>The legend awakens &amp;ldquo;Zelda: A Link Between Worlds&amp;rdquo; is a beloved action-adventure game developed by Nintendo for the Nintendo 3DS. Released as a direct sequel to &amp;ldquo;The Legend of Zelda: A Link to the Past,&amp;rdquo; it successfully combines nostalgic elements with innovative gameplay. This top-down adventure takes players on a captivating journey through the kingdom of Hyrule and the mysterious Lorule.</description>
     </item>
   </channel>
