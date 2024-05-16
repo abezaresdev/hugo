@@ -1,173 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevRa on My New Hugo Site</title>
-    <link>https://abezaresdev.github.io/hugo/</link>
-    <description>Recent content in DevRa on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <title>Trello Learn on My New Hugo Site</title>
+    <link>https://example.org/index.html</link>
+    <description>Recent content in Trello Learn on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://abezaresdev.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game Name</title>
-      <link>https://abezaresdev.github.io/hugo/sections/nintendo/g001-alone-in-the-dark-the-new-nightmare/</link>
-      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/sections/nintendo/g001-alone-in-the-dark-the-new-nightmare/</guid>
-      <description>The game description&#xA;The game description</description>
-    </item>
-    <item>
-      <title>Black Desert</title>
-      <link>https://abezaresdev.github.io/hugo/posts/black-desert/black-desert/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/black-desert/black-desert/</guid>
-      <description>Black Desert is a sandbox-oriented MMORPG featuring a dynamic combat system, stunning visuals, and a vast open-world to explore. With deep character customization and a variety of activities, it offers a rich and immersive gaming experience.&#xA;This Markdown content includes the game review for &amp;ldquo;Black Desert&amp;rdquo; with today&amp;rsquo;s date set as the default date (2024-04-23), the expiry date set to one year from today (2025-04-23), and the draft status set to false.</description>
-    </item>
-    <item>
-      <title>Drawn: Trail of Shadows</title>
-      <link>https://abezaresdev.github.io/hugo/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</guid>
-      <description>Drawn: Trail of Shadows is a puzzle adventure game where players embark on a journey through a magical world filled with mysteries and challenges. With its hand-drawn art style and engaging story, it offers a captivating experience for players of all ages.&#xA;This Markdown content includes the game review for &amp;ldquo;Drawn: Trail of Shadows&amp;rdquo; with today&amp;rsquo;s date set as the default date (2024-04-23), the expiry date set to one year from today (2025-04-23), and the draft status set to false.</description>
-    </item>
-    <item>
-      <title>Faraway 2: Jungle Escape</title>
-      <link>https://abezaresdev.github.io/hugo/posts/faraway-2--jungle-escape/faraway-2--jungle-escape/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/faraway-2--jungle-escape/faraway-2--jungle-escape/</guid>
-      <description>Faraway 2: Jungle Escape is a puzzle adventure game where players explore exotic landscapes and solve intricate puzzles to uncover the mysteries of the jungle. With stunning visuals and challenging gameplay, it offers an immersive experience for puzzle enthusiasts.&#xA;This Markdown content includes the game review for &amp;ldquo;Faraway 2: Jungle Escape&amp;rdquo; with today&amp;rsquo;s date set as the default date (2024-04-23), the expiry date set to one year from today (2025-04-23), and the draft status set to false.</description>
-    </item>
-    <item>
-      <title>Ghostrunner</title>
-      <link>https://abezaresdev.github.io/hugo/posts/ghostrunner/</link>
-      <pubDate>Thu, 18 Apr 2024 14:14:50 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/ghostrunner/</guid>
-      <description>Ghostrunner is a hardcore first-person perspective action game set in a cyberpunk world. Players take on the role of a cybernetic ninja known as the Ghostrunner, equipped with extraordinary abilities and a deadly katana, as they climb the Dharma Tower to confront its tyrannical ruler.</description>
-    </item>
-    <item>
-      <title>Fallout 76</title>
-      <link>https://abezaresdev.github.io/hugo/posts/fallout-76/</link>
-      <pubDate>Thu, 18 Apr 2024 13:14:50 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/fallout-76/</guid>
-      <description>Fallout 76 is an online action role-playing game developed by Bethesda Game Studios. Set in the post-apocalyptic wasteland of West Virginia, players emerge from Vault 76 to explore, build, and survive in a dynamic open world.&#xA;With a focus on multiplayer interactions, players can team up with friends or venture into the wilderness alone. Encounter other survivors, complete quests, and uncover the mysteries of the wasteland in this immersive Fallout experience.</description>
-    </item>
-    <item>
-      <title>The Elder Scrolls V: Skyrim</title>
-      <link>https://abezaresdev.github.io/hugo/posts/skyrim/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/skyrim/</guid>
-      <description>The Elder Scrolls V: Skyrim is an open-world action role-playing game developed by Bethesda Game Studios. It offers a vast and immersive world filled with quests, exploration, and adventure.&#xA;In Skyrim, players take on the role of the Dragonborn, a prophesied hero destined to save the world from an ancient dragon god. With a rich lore, dynamic characters, and countless quests, players can forge their own path as they explore the rugged landscapes of Skyrim, battle fearsome creatures, and uncover hidden secrets.</description>
-    </item>
-    <item>
-      <title>Bloodborne</title>
-      <link>https://abezaresdev.github.io/hugo/posts/bloodborne/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/bloodborne/</guid>
-      <description>Bloodborne: A Dark and Engaging Gothic Masterpiece Bloodborne is an exceptional action role-playing game developed by FromSoftware. Set in a haunting, gothic-inspired world, the game immerses players in a nightmarish realm filled with eldritch horrors and challenging foes. As the Hunter, you embark on a journey through the city of Yharnam, where every step is fraught with danger and discovery. The game&amp;rsquo;s atmosphere is unparalleled, creating an eerie and tense experience that keeps you on the edge of your seat.</description>
-    </item>
-    <item>
-      <title>Bloodborne</title>
-      <link>https://abezaresdev.github.io/hugo/sections/playstation/bloodborne/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/sections/playstation/bloodborne/</guid>
-      <description>&lt;h1 id=&#34;bloodborne-a-dark-and-engaging-gothic-masterpiece&#34;&gt;Bloodborne: A Dark and Engaging Gothic Masterpiece&lt;/h1&gt;&#xA;&lt;p&gt;Bloodborne is an exceptional action role-playing game developed by FromSoftware.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bloodborne</title>
-      <link>https://abezaresdev.github.io/hugo/sections/xbox/bloodborne/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/sections/xbox/bloodborne/</guid>
-      <description>&lt;h1 id=&#34;bloodborne-a-dark-and-engaging-gothic-masterpiece&#34;&gt;Bloodborne: A Dark and Engaging Gothic Masterpiece&lt;/h1&gt;&#xA;&lt;p&gt;Bloodborne is an exceptional action role-playing game developed by FromSoftware.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>King of Fighters XV</title>
-      <link>https://abezaresdev.github.io/hugo/posts/kofxv/kofxv/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/kofxv/kofxv/</guid>
-      <description>King of Fighters XV &amp;ldquo;King of Fighters XV&amp;rdquo; is the latest installment in the long-running and beloved fighting game franchise, and it doesn&amp;rsquo;t disappoint. With a diverse roster of characters, stunning visuals, and finely tuned gameplay, it&amp;rsquo;s a worthy addition to the series. The game maintains the fast-paced, team-based battles that fans have come to love, and the new additions, both in terms of characters and gameplay mechanics, breathe fresh life into the franchise.</description>
-    </item>
-    <item>
-      <title>Zelda: A Link Between Worlds</title>
-      <link>https://abezaresdev.github.io/hugo/sections/playstation/zelda/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/sections/playstation/zelda/</guid>
-      <description>The legend awakens &amp;ldquo;Zelda: A Link Between Worlds&amp;rdquo; is a beloved action-adventure game developed by Nintendo for the Nintendo 3DS. Released as a direct sequel to &amp;ldquo;The Legend of Zelda: A Link to the Past,&amp;rdquo; it successfully combines nostalgic elements with innovative gameplay. This top-down adventure takes players on a captivating journey through the kingdom of Hyrule and the mysterious Lorule.</description>
-    </item>
-    <item>
-      <title>Zelda: A Link Between Worlds</title>
-      <link>https://abezaresdev.github.io/hugo/sections/xbox/zelda/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/sections/xbox/zelda/</guid>
-      <description>The legend awakens &amp;ldquo;Zelda: A Link Between Worlds&amp;rdquo; is a beloved action-adventure game developed by Nintendo for the Nintendo 3DS. Released as a direct sequel to &amp;ldquo;The Legend of Zelda: A Link to the Past,&amp;rdquo; it successfully combines nostalgic elements with innovative gameplay. This top-down adventure takes players on a captivating journey through the kingdom of Hyrule and the mysterious Lorule.</description>
-    </item>
-    <item>
-      <title>GTA6</title>
-      <link>https://abezaresdev.github.io/hugo/posts/gta6/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/gta6/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chords for Happy Birthday</title>
-      <link>https://abezaresdev.github.io/hugo/posts/chords-for-happy-birthday/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/chords-for-happy-birthday/</guid>
-      <description> C G Happy birthday to you G C Happy birthday to you C F Happy birthday dear BlogRa C Bdim C Happy birthday to you </description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://abezaresdev.github.io/hugo/posts/markdown-syntax/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Write Math Equations</title>
-      <link>https://abezaresdev.github.io/hugo/posts/write-math-equations/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/write-math-equations/</guid>
-      <description>Write math equations with ease. At first enable math:true in front matter.&#xA;Then write this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&#xA;And write this-&#xA;$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$ to produce this-&#xA;$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
-    </item>
-    <item>
-      <title>Make Diagrams with Mermaid</title>
-      <link>https://abezaresdev.github.io/hugo/posts/make-diagrams-with-mermaid/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/make-diagrams-with-mermaid/</guid>
-      <description>Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-&#xA;graph TD A[Client] --&amp;gt; B[Load Balancer] B --&amp;gt; C[Server01] B --&amp;gt; D[Server02] to generate diagrams like this-&#xA;Find more about mermaid at mermaid-js.github.io/mermaid/</description>
-    </item>
-    <item>
-      <title>Out Of Line</title>
-      <link>https://abezaresdev.github.io/hugo/posts/out-of-line/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/out-of-line/</guid>
-      <description>&lt;p&gt;A unique adventure game filled with beautiful puzzles all hand-drawn in a unique 2D style . Out of Line follows the adventures of San in a quest to escape the Factory that was once home. Dive into a story set in a mysterious world that is revealed through multiple chapters.&lt;/p&gt;&#xA;&lt;p&gt;Get it now throguth [XXX XXX]&lt;/p&gt;&#xA;&lt;p&gt;[LINK BUTTON TO EXTERNAL ADDRESS]&lt;/p&gt;&#xA;&lt;p&gt;Never miss an offer. Newsletter, app, share link etc.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
-    </item>
-    <item>
-      <title>Template</title>
-      <link>https://abezaresdev.github.io/hugo/posts/template/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/template/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod scelerisque justo sed faucibus. Nullam quis orci id nulla bibendum facilisis sit amet et odio. Sed sed pretium leo. Curabitur aliquam varius dolor vitae gravida. Nulla facilisi. Praesent eget lectus felis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>https://abezaresdev.github.io/hugo/posts/emoji-support/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://abezaresdev.github.io/hugo/about/</link>
+      <title>1. Learn Trello board basics</title>
+      <link>https://example.org/01-learn-trello-board-basics/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://example.org/01-learn-trello-board-basics/index.html</guid>
+      <description>Getting started with Trello is easy, in this chapter you will learn about the fundamental components of Trello, boards, lists, cards, and more.
+Welcome to Trello! Trello is the visual work management tool that empowers teams to ideate, plan, manage, and celebrate their work together in a collaborative, productive, and organized way.
+Whether you and your team are starting something new or trying to get more organized with your existing work, Trello adapts to any project.</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>https://abezaresdev.github.io/hugo/contact/</link>
+      <title>2. Create your first project</title>
+      <link>https://example.org/02-create-your-first-project/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/hugo/contact/</guid>
-      <description>Click me to reveal my email. Don&amp;rsquo;t spam or I will kidnap your cat.</description>
+      <guid>https://example.org/02-create-your-first-project/index.html</guid>
+      <description>Trello is flexible and fast enough to manage any sized project from start to finish. Learn how to build your first board and start moving work forward.
+Build your first project in Trello As with any project, you need to manage a lot of information, track task statuses, and pull in the right stakeholders at every phase of the project. The objective is to move forward at a steady pace and ensure you can deliver on time and within budget—all while keeping a smile on your face.</description>
+    </item>
+    <item>
+      <title>3. Onboard your team to Trello</title>
+      <link>https://example.org/03-onboard-your-team-to-trello/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/03-onboard-your-team-to-trello/index.html</guid>
+      <description>Whether you&amp;rsquo;re a team of ten or ten thousand, it only takes a few minutes to onboard your team members, set permissions, and start collaborating.
+Information can easily get lost or misinterpreted when spread over many different tools such as emails or spreadsheets. Trello helps your team focus on the work that matters with its intuitive design, features, and integrations which minimize cumbersome learning curves and hours of tedious work. With Trello you can be sure everybody is on the same page to take projects to the finish line and has the tools they need to get their work done.</description>
+    </item>
+    <item>
+      <title>4. Integrate Trello with other apps</title>
+      <link>https://example.org/04-integrate-trello-with-other-apps/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/04-integrate-trello-with-other-apps/index.html</guid>
+      <description>Turn Trello into your source of truth, break down communication silos, and connect Trello to all of the other tools your team relies on.
+The saying is true—no one is an island. Working in silos is detrimental to your team, your business, and even your customers. Rather than working together to accomplish your common goals, silos put barriers in place and can lead to teams working against each other. Flexible tools and transparent communication help you overcome silo effects.</description>
+    </item>
+    <item>
+      <title>5. Powerful collaboration features</title>
+      <link>https://example.org/05-powerful-collaboration-features/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/05-powerful-collaboration-features/index.html</guid>
+      <description>This section goes over paid collaboration features available in Trello Standard, Trello Premium and Trello Enterprise. Read on to learn more about these features and click here if you would like to upgrade. Skip this chapter if you are not interested. Expand your work with two additional powerful collaboration features, advanced checklists and Custom Fields, available as paid features in Trello Standard, Trello Premium and Trello Enterprise. With advanced checklists and Custom Fields, bring more power to your team and learn how to scale your operations, add more power and customization to your workflows, and manage as many projects as you need.</description>
+    </item>
+    <item>
+      <title>6. Activate different views</title>
+      <link>https://example.org/06-activate-different-views/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/06-activate-different-views/index.html</guid>
+      <description>This section goes over Trello Views, a paid feature available in Trello Premium and Trello Enterprise. Read on to learn more about Views and click here if you would like to upgrade. Skip this chapter if you are not interested. View your work as a Timeline, Table, Calendar, and more &amp;mdash; toggle views instantly to bring clarity and perspective to your projects.
+Like any situation in life, a project never looks the same from different angles.</description>
+    </item>
+    <item>
+      <title>7. Automate anything in Trello</title>
+      <link>https://example.org/07-automate-anything-in-trello/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/07-automate-anything-in-trello/index.html</guid>
+      <description> Trello’s built-in automation tool, Butler Automation, takes seconds to set up and can save hours of your team’s time. Learn how to build automations to tackle the tedious tasks that slow down productivity. SECTION OVERVIEW In this section you will learn:
+Intro to automation Getting started with automation Rule based automation Card and board buttons Calendar and due date commands Automations for email and integrations </description>
+    </item>
+    <item>
+      <title>8. Set permissions and admin controls</title>
+      <link>https://example.org/08-set-permissions-and-admin-controls/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/08-set-permissions-and-admin-controls/index.html</guid>
+      <description>Scale safely and manage data securely without putting the brakes on collaboration and getting things done. Learn how to set permissions and administer teams successfully. Every team needs a digital space where they can easily connect ideas and projects across company silos. Allowing users to be added to a project based on their permission and accessing and creating content freely is key for keeping a healthy business environment.
+By having all the control at your fingertips, your team can scale while keeping intellectual property safe within Trello.</description>
+    </item>
+    <item>
+      <title>9. Learn Trello’s top tips and tricks</title>
+      <link>https://example.org/09-learn-trello-top-tips-and-tricks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/09-learn-trello-top-tips-and-tricks/index.html</guid>
+      <description>Have fun while getting more done. Learn Trello’s tips and tricks, that will not only boost your productivity, but also add a little bit of delight to your team’s day. Trello embodies team spirit—the attitude, energy, and camaraderie needed for teams to accomplish great work together. We like to go the extra mile. Fun and customizable features humanize the work being done and allow the personality of the team to thrive.</description>
     </item>
   </channel>
 </rss>
