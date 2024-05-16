@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text on My New Hugo Site</title>
-    <link>https://abezaresdev.github.io/tags/text/</link>
+    <link>https://abezaresdev.github.io/hugo/tags/text/</link>
     <description>Recent content in Text on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://abezaresdev.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/hugo/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA6</title>
-      <link>https://abezaresdev.github.io/posts/gta6/</link>
+      <link>https://abezaresdev.github.io/hugo/posts/gta6/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://abezaresdev.github.io/posts/gta6/</guid>
+      <guid>https://abezaresdev.github.io/hugo/posts/gta6/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
   </channel>
