@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6. Activate different views on My New Hugo Site</title>
-    <link>https://example.org/06-activate-different-views/index.html</link>
+    <link>https://abezaresdev.github.io/hugo/06-activate-different-views/index.html</link>
     <description>Recent content in 6. Activate different views on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/06-activate-different-views/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/hugo/06-activate-different-views/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Board view</title>
-      <link>https://example.org/06-activate-different-views/01-board-view/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/01-board-view/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/01-board-view/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/01-board-view/index.html</guid>
       <description>As described in previous chapters, Trello boards are a perfect fit to help your team plan every single detail of your project step by step. Similar to a Kanban board, Trello boards are so flexible that you can create a unique workflow that suits your project progression and customize it however you’d like. Instantly see the status of every task and celebrate each accomplishment.
 Feature focus: Trello boards have dozens of simple yet powerful features to help you get your work done:</description>
     </item>
     <item>
       <title>Table view</title>
-      <link>https://example.org/06-activate-different-views/02-table-view/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/02-table-view/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/02-table-view/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/02-table-view/index.html</guid>
       <description>Table view can be used to provide a clearer view into all the work happening across your lists on a single board. Table makes it easy for teams to collaborate, align, and deliver work with the ability to see cards or tasks in a compact, manageable table format alongside crucial information like lists, labels, members, and due dates.
 Feature focus: Adding cards: From the Table view, easily add new tasks by clicking the + between line items.</description>
     </item>
     <item>
       <title>Calendar view</title>
-      <link>https://example.org/06-activate-different-views/03-calendar-view/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/03-calendar-view/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/03-calendar-view/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/03-calendar-view/index.html</guid>
       <description>Plan faster and better with the Calendar view. From tracking team progress to staying on top of your work, give a time dimension to your projects. Calendar helps you anticipate any roadblocks, events or deadlines, to take your team smoothly to the finish line.
 Feature focus: Calendar: Cards can be viewed in the Calendar in a monthly view, to get the big picture, or weekly view, to focus on the work ahead of you.</description>
     </item>
     <item>
       <title>Timeline view</title>
-      <link>https://example.org/06-activate-different-views/04-timeline-view/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/04-timeline-view/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/04-timeline-view/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/04-timeline-view/index.html</guid>
       <description>Timeline is a beautiful, tactile view of how the team’s work fits together. Build a powerful yet easy-to-use Timeline for any project you are working on. You&amp;rsquo;ll catch any roadblocks before they happen, view upcoming deadlines, and stay aware of all the work your team is working on. You&amp;rsquo;ll become the maestro of your project and your team will thank you for how smoothly everything is being managed.
 Feature focus: Lanes: Lanes are the placeholders for cards.</description>
     </item>
     <item>
       <title>Dashboard view</title>
-      <link>https://example.org/06-activate-different-views/05-dashboard-view/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/05-dashboard-view/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/05-dashboard-view/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/05-dashboard-view/index.html</guid>
       <description>Add data points to your project to make decisions faster and better. With the Dashboard view, you can create the charts that your team needs to identify any roadblock or highlight any win that will turn your project into a successful one. Visualize key metrics like due dates, assigned cards, and cards per list to keep stakeholders aligned and confidence running high. With historical data and different chart types, create the dashboard that will put your team on the pole position.</description>
     </item>
     <item>
       <title>Map view</title>
-      <link>https://example.org/06-activate-different-views/06-map-view/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/06-map-view/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/06-map-view/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/06-map-view/index.html</guid>
       <description>For many, projects involve more than just tasks and due dates—they involve places. To make sure your team has all the elements they need to make wise decisions, you can add locations to cards and view all those locations in one single place: the Map view.
 Feature focus: Locations: Add locations to a card to position it on the Map view. Searching: Map view is connected to Google Maps, so you can search any location from its address or even by typing the name of the place you’re looking for.</description>
     </item>
     <item>
       <title>Workspace views</title>
-      <link>https://example.org/06-activate-different-views/07-workspace-views/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/07-workspace-views/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/07-workspace-views/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/07-workspace-views/index.html</guid>
       <description>Gain perspective across your team with the Workspace Table or Workspace Calendar views, which act like supercharged versions of our regular Table and Calendar views. Workspace Table and Workspace Calendar views both allow you to view cards from across multiple Trello boards in one place. Make decisions based on the big picture and dial cross-team collaboration up a few notches.
 Workspace Table view The Workspace Table view is an easy-to-use feature to see cards from multiple boards across your Workspace in a spreadsheet format.</description>
     </item>
     <item>
       <title>Additional Resources</title>
-      <link>https://example.org/06-activate-different-views/08-additional-resources/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/06-activate-different-views/08-additional-resources/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/06-activate-different-views/08-additional-resources/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/06-activate-different-views/08-additional-resources/index.html</guid>
       <description>RESOURCES WEBINAR:
 Beyond The Board: Trello’s New Views And Card Types
 Take a full tour: Trello Standard and Premium

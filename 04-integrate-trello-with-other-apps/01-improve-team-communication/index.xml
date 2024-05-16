@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Improve team communication on My New Hugo Site</title>
-    <link>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/index.html</link>
+    <link>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/index.html</link>
     <description>Recent content in Improve team communication on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slack Power-Up</title>
-      <link>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/01-slack/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/01-slack/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/01-slack/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/01-slack/index.html</guid>
       <description>Link your Slack and Trello Workspaces to build the ultimate productivity powerhouse, combining collaboration and communication.
 Add new Trello cards to boards directly from Slack without needing to hop through the app switching hoop. Paste a Trello link into a Slack channel to automatically display key insights like members, descriptions, comments, and more. Attach conversations from Slack to Trello cards, change due dates, join cards &amp;amp; boards, and subscribe to cards.</description>
     </item>
     <item>
       <title>Confluence Power-Up</title>
-      <link>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/02-confluence/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/02-confluence/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/02-confluence/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/02-confluence/index.html</guid>
       <description>When you find yourself needing a thorough repository of company information and plans, Confluence is your new best friend. It’s an excellent tool to collaboratively write blog posts, manage the nitty-gritty of planning a big event, or organize timelines for upcoming projects. Confluence pages provide rich text editing, inline commenting, dynamic content, and more. With the Confluence Cloud Power-Up you can:
 Attach Confluence pages to Trello cards and get from your board to your drilled-down content in a single click.</description>
     </item>
     <item>
       <title>Google Drive Power-Up</title>
-      <link>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/03-google-drive/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/03-google-drive/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/03-google-drive/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/03-google-drive/index.html</guid>
       <description>The Google Drive Power-Up for Trello brings your files and folders to Trello cards. Search Google Drive right from Trello and create and attach relevant files and folders. See real-time previews and details and click back into Google Drive.
 PRO TIP Say goodbye to stress about building your next team presentation, turn your Trello board into a Google Slides presentation with one click.</description>
     </item>
     <item>
       <title>Jira Power-Up</title>
-      <link>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/04-jira/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/04-jira/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/04-integrate-trello-with-other-apps/01-improve-team-communication/04-jira/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/04-integrate-trello-with-other-apps/01-improve-team-communication/04-jira/index.html</guid>
       <description>Whether you use Jira for a specific part of your workflow or work with a team that uses Jira, with the Jira Power-Up connect the two tools and help all your teams work better together with the Jira Power-Up.
 This integration within Trello allows you to:
 Link Jira issues (Task or Epic) to Trello cards so anyone can easily see who’s working on what, regardless of which tool they prefer to use.</description>

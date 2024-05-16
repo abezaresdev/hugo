@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2. Create your first project on My New Hugo Site</title>
-    <link>https://example.org/02-create-your-first-project/index.html</link>
+    <link>https://abezaresdev.github.io/hugo/02-create-your-first-project/index.html</link>
     <description>Recent content in 2. Create your first project on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/02-create-your-first-project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/hugo/02-create-your-first-project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a board</title>
-      <link>https://example.org/02-create-your-first-project/01-create-a-board/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/02-create-your-first-project/01-create-a-board/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/02-create-your-first-project/01-create-a-board/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/02-create-your-first-project/01-create-a-board/index.html</guid>
       <description>Structuring a project with all the members, ideas, tasks, and due dates and optimizing it for team collaboration can be overwhelming. Thankfully, you can get a fresh start with a Trello board where you can organize everything to meet your needs and be successful.
 From the team’s Workspace tab, click “Create new board” or click the plus button (+) in the Trello header directly to the left of your name, and select “Create Board”.</description>
     </item>
     <item>
       <title>Customize your board</title>
-      <link>https://example.org/02-create-your-first-project/02-customize-your-board/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/02-create-your-first-project/02-customize-your-board/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/02-create-your-first-project/02-customize-your-board/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/02-create-your-first-project/02-customize-your-board/index.html</guid>
       <description>No two workflows are alike, so why not give each board a unique look and feel? In the spirit of fun and flexibility, we let you customize your board background to reflect your team’s unique personality.
 You can pick one of our basic colors, upload your own personal image*, or pick a picture from Unsplash&amp;rsquo;s huge library of photos for beautiful and unique board backgrounds. You can always change a board background at any time from the board’s menu.</description>
     </item>
     <item>
       <title>Start collaborating</title>
-      <link>https://example.org/02-create-your-first-project/03-start-collaborating/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/02-create-your-first-project/03-start-collaborating/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/02-create-your-first-project/03-start-collaborating/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/02-create-your-first-project/03-start-collaborating/index.html</guid>
       <description>Whether a member is in charge of a project or only checks in occasionally for project status updates, ensuring all team members are on the same page results in a better project collaboration experience.
 Invite members to the board so that they can be assigned to tasks and collaborate on the board.
 From the top of the board, click “Invite” and select a member of your team to add to your board, or invite members by their email address or name.</description>
     </item>
     <item>
       <title>Build a workflow</title>
-      <link>https://example.org/02-create-your-first-project/04-build-a-workflow/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/02-create-your-first-project/04-build-a-workflow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/02-create-your-first-project/04-build-a-workflow/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/02-create-your-first-project/04-build-a-workflow/index.html</guid>
       <description>Lists in Trello help you organize your cards by status. They can represent different things like a collection of ideas or tasks within a larger project. However, whether it’s basic Kanban, a sales pipeline, a marketing calendar, or robust project management, what matters most is establishing a workflow for the way your team works.
 Click &amp;ldquo;Add a list&amp;rdquo; to add your first list to your board and title it to represent the stage or information that it will hold.</description>
     </item>
     <item>
       <title>Add tasks and to-dos</title>
-      <link>https://example.org/02-create-your-first-project/05-add-tasks-and-to-dos/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/02-create-your-first-project/05-add-tasks-and-to-dos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/02-create-your-first-project/05-add-tasks-and-to-dos/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/02-create-your-first-project/05-add-tasks-and-to-dos/index.html</guid>
       <description>As a fundamental unit of a board, cards are used to represent tasks and ideas. It can be used for something that needs to get done like a customer support issue, a new design, a blog post, or something project-related that you need to be reminded of.
 Cards can be customized to hold a wide variety of useful information by clicking on them. Drag and drop cards across lists to show progress.</description>
     </item>
     <item>
       <title>Additional resources</title>
-      <link>https://example.org/02-create-your-first-project/06-additional-resources/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/02-create-your-first-project/06-additional-resources/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/02-create-your-first-project/06-additional-resources/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/02-create-your-first-project/06-additional-resources/index.html</guid>
       <description> RESOURCES Blog: How To Unlock Project Management Perfection With Trello
 WEBINAR: Getting Started with Trello
 How To Keep Track Of Your Work With Trello </description>

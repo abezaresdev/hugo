@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7. Automate anything in Trello on My New Hugo Site</title>
-    <link>https://example.org/07-automate-anything-in-trello/index.html</link>
+    <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/index.html</link>
     <description>Recent content in 7. Automate anything in Trello on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/07-automate-anything-in-trello/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to automation</title>
-      <link>https://example.org/07-automate-anything-in-trello/01-intro-to-automation/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/01-intro-to-automation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/07-automate-anything-in-trello/01-intro-to-automation/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/01-intro-to-automation/index.html</guid>
       <description>Oftentimes, our most productive moments are blocked by the tedious, administrative tasks that need to be performed to keep things organized or move work forward. Luckily, Trello has a built-in automation system that makes it easy for anyone to automate just about any action in Trello.
 With automation you can create: Rules that instantly run a set of actions when triggered by a defined action. Buttons that run action on a card or across an entire board in a single click.</description>
     </item>
     <item>
       <title>Getting started with automation</title>
-      <link>https://example.org/07-automate-anything-in-trello/02-getting-started-with-automation/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/02-getting-started-with-automation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/07-automate-anything-in-trello/02-getting-started-with-automation/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/02-getting-started-with-automation/index.html</guid>
       <description>Click “Automation” in the board menu to open the command window and create and manage automations for your board. Within automation you will find:
 Automation tips: Automatically detect repetitive actions you take on the board and suggest them as automations that can be added to a board in a single click. This is a great way to quickly get started with automation. Rules, card buttons, board buttons, calendar, and due date: Click on any one of these to create, edit, share, enable, and remove automations on a board.</description>
     </item>
     <item>
       <title>Rule based automation</title>
-      <link>https://example.org/07-automate-anything-in-trello/03-rule-based-automation/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/03-rule-based-automation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/07-automate-anything-in-trello/03-rule-based-automation/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/03-rule-based-automation/index.html</guid>
       <description>Rules run when a set condition is met, which will then trigger a series of actions. They are an excellent way to build processes in a workflow because anyone on the board that triggers the rule will run the set actions, which means nothing important will slip through the cracks when moving work forward.
 Building a rule is easy: Click “Create Rule” from the rules menu. Add a trigger. This is the action that will trigger a set of predefined actions.</description>
     </item>
     <item>
       <title>Card and board buttons</title>
-      <link>https://example.org/07-automate-anything-in-trello/04-card-and-board-buttons/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/04-card-and-board-buttons/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/07-automate-anything-in-trello/04-card-and-board-buttons/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/04-card-and-board-buttons/index.html</guid>
       <description>Sometimes you want to be able to simply trigger an automation on demand, and that is where card and board buttons are powerful. At the click of a button you can activate a series of actions at the card and board level.
 Here’s how to add buttons to cards and boards: Click “Create button” from the card button or board button menus. Name your button and select an icon for easier visual recognition.</description>
     </item>
     <item>
       <title>Calendar and due date commands</title>
-      <link>https://example.org/07-automate-anything-in-trello/05-calendar-and-due-date-commands/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/05-calendar-and-due-date-commands/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/07-automate-anything-in-trello/05-calendar-and-due-date-commands/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/05-calendar-and-due-date-commands/index.html</guid>
       <description>You also have the ability to set up automation to work on whatever schedule works for you with scheduled commands based on calendar dates or a card’s due date.
 Calendar commands are great for automating recurring tasks and regular board maintenance actions like moving and archiving cards, sorting lists, and adding new lists to a board. These commands can be set to run at specific times on daily, weekly, monthly, and yearly times of your choosing.</description>
     </item>
     <item>
       <title>Automations for email and integrations</title>
-      <link>https://example.org/07-automate-anything-in-trello/06-automations-for-email-and-integrations/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/06-automations-for-email-and-integrations/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/07-automate-anything-in-trello/06-automations-for-email-and-integrations/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/06-automations-for-email-and-integrations/index.html</guid>
       <description>Take automation beyond your boards with automations that utilize email and integrations with Slack and Jira. This makes it super convenient to automatically share information and updates with external stakeholders, clients, or colleagues that are working in other apps that your team relies on.
 For example, consider creating weekly reports that emails the status of cards on a board to team leads with scheduled commands. Or, if you are working with external stakeholders, set up a rule that automatically emails clients when feedback is needed by triggering an email to send whenever a card is dragged to the “Needs Feedback” list.</description>
     </item>
     <item>
       <title>Additional resources</title>
-      <link>https://example.org/07-automate-anything-in-trello/07-additional-resources/index.html</link>
+      <link>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/07-additional-resources/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/07-automate-anything-in-trello/07-additional-resources/index.html</guid>
+      <guid>https://abezaresdev.github.io/hugo/07-automate-anything-in-trello/07-additional-resources/index.html</guid>
       <description> RESOURCES HELP: An introduction to Butler
 BLOG: Workflow Automation At Your Service With Trello’s Butler Bring Powerful Automation To Your Boards WIth Butler </description>
     </item>
