@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>https://abezaresdev.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black Desert</title>
-      <link>https://example.org/posts/black-desert/black-desert/</link>
+      <link>https://abezaresdev.github.io/posts/black-desert/black-desert/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/black-desert/black-desert/</guid>
+      <guid>https://abezaresdev.github.io/posts/black-desert/black-desert/</guid>
       <description>Black Desert is a sandbox-oriented MMORPG featuring a dynamic combat system, stunning visuals, and a vast open-world to explore. With deep character customization and a variety of activities, it offers a rich and immersive gaming experience.&#xA;This Markdown content includes the game review for &amp;ldquo;Black Desert&amp;rdquo; with today&amp;rsquo;s date set as the default date (2024-04-23), the expiry date set to one year from today (2025-04-23), and the draft status set to false.</description>
     </item>
     <item>
       <title>Drawn: Trail of Shadows</title>
-      <link>https://example.org/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</link>
+      <link>https://abezaresdev.github.io/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</guid>
+      <guid>https://abezaresdev.github.io/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</guid>
       <description>Drawn: Trail of Shadows is a puzzle adventure game where players embark on a journey through a magical world filled with mysteries and challenges. With its hand-drawn art style and engaging story, it offers a captivating experience for players of all ages.&#xA;This Markdown content includes the game review for &amp;ldquo;Drawn: Trail of Shadows&amp;rdquo; with today&amp;rsquo;s date set as the default date (2024-04-23), the expiry date set to one year from today (2025-04-23), and the draft status set to false.</description>
     </item>
     <item>
       <title>Faraway 2: Jungle Escape</title>
-      <link>https://example.org/posts/faraway-2--jungle-escape/faraway-2--jungle-escape/</link>
+      <link>https://abezaresdev.github.io/posts/faraway-2--jungle-escape/faraway-2--jungle-escape/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/faraway-2--jungle-escape/faraway-2--jungle-escape/</guid>
+      <guid>https://abezaresdev.github.io/posts/faraway-2--jungle-escape/faraway-2--jungle-escape/</guid>
       <description>Faraway 2: Jungle Escape is a puzzle adventure game where players explore exotic landscapes and solve intricate puzzles to uncover the mysteries of the jungle. With stunning visuals and challenging gameplay, it offers an immersive experience for puzzle enthusiasts.&#xA;This Markdown content includes the game review for &amp;ldquo;Faraway 2: Jungle Escape&amp;rdquo; with today&amp;rsquo;s date set as the default date (2024-04-23), the expiry date set to one year from today (2025-04-23), and the draft status set to false.</description>
     </item>
     <item>
       <title>Ghostrunner</title>
-      <link>https://example.org/posts/ghostrunner/</link>
+      <link>https://abezaresdev.github.io/posts/ghostrunner/</link>
       <pubDate>Thu, 18 Apr 2024 14:14:50 +0000</pubDate>
-      <guid>https://example.org/posts/ghostrunner/</guid>
+      <guid>https://abezaresdev.github.io/posts/ghostrunner/</guid>
       <description>Ghostrunner is a hardcore first-person perspective action game set in a cyberpunk world. Players take on the role of a cybernetic ninja known as the Ghostrunner, equipped with extraordinary abilities and a deadly katana, as they climb the Dharma Tower to confront its tyrannical ruler.</description>
     </item>
     <item>
       <title>Fallout 76</title>
-      <link>https://example.org/posts/fallout-76/</link>
+      <link>https://abezaresdev.github.io/posts/fallout-76/</link>
       <pubDate>Thu, 18 Apr 2024 13:14:50 +0000</pubDate>
-      <guid>https://example.org/posts/fallout-76/</guid>
+      <guid>https://abezaresdev.github.io/posts/fallout-76/</guid>
       <description>Fallout 76 is an online action role-playing game developed by Bethesda Game Studios. Set in the post-apocalyptic wasteland of West Virginia, players emerge from Vault 76 to explore, build, and survive in a dynamic open world.&#xA;With a focus on multiplayer interactions, players can team up with friends or venture into the wilderness alone. Encounter other survivors, complete quests, and uncover the mysteries of the wasteland in this immersive Fallout experience.</description>
     </item>
     <item>
       <title>The Elder Scrolls V: Skyrim</title>
-      <link>https://example.org/posts/skyrim/</link>
+      <link>https://abezaresdev.github.io/posts/skyrim/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/skyrim/</guid>
+      <guid>https://abezaresdev.github.io/posts/skyrim/</guid>
       <description>The Elder Scrolls V: Skyrim is an open-world action role-playing game developed by Bethesda Game Studios. It offers a vast and immersive world filled with quests, exploration, and adventure.&#xA;In Skyrim, players take on the role of the Dragonborn, a prophesied hero destined to save the world from an ancient dragon god. With a rich lore, dynamic characters, and countless quests, players can forge their own path as they explore the rugged landscapes of Skyrim, battle fearsome creatures, and uncover hidden secrets.</description>
     </item>
     <item>
       <title>Bloodborne</title>
-      <link>https://example.org/posts/bloodborne/</link>
+      <link>https://abezaresdev.github.io/posts/bloodborne/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/bloodborne/</guid>
+      <guid>https://abezaresdev.github.io/posts/bloodborne/</guid>
       <description>Bloodborne: A Dark and Engaging Gothic Masterpiece Bloodborne is an exceptional action role-playing game developed by FromSoftware. Set in a haunting, gothic-inspired world, the game immerses players in a nightmarish realm filled with eldritch horrors and challenging foes. As the Hunter, you embark on a journey through the city of Yharnam, where every step is fraught with danger and discovery. The game&amp;rsquo;s atmosphere is unparalleled, creating an eerie and tense experience that keeps you on the edge of your seat.</description>
     </item>
     <item>
       <title>King of Fighters XV</title>
-      <link>https://example.org/posts/kofxv/kofxv/</link>
+      <link>https://abezaresdev.github.io/posts/kofxv/kofxv/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/kofxv/kofxv/</guid>
+      <guid>https://abezaresdev.github.io/posts/kofxv/kofxv/</guid>
       <description>King of Fighters XV &amp;ldquo;King of Fighters XV&amp;rdquo; is the latest installment in the long-running and beloved fighting game franchise, and it doesn&amp;rsquo;t disappoint. With a diverse roster of characters, stunning visuals, and finely tuned gameplay, it&amp;rsquo;s a worthy addition to the series. The game maintains the fast-paced, team-based battles that fans have come to love, and the new additions, both in terms of characters and gameplay mechanics, breathe fresh life into the franchise.</description>
     </item>
     <item>
       <title>GTA6</title>
-      <link>https://example.org/posts/gta6/</link>
+      <link>https://abezaresdev.github.io/posts/gta6/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/gta6/</guid>
+      <guid>https://abezaresdev.github.io/posts/gta6/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chords for Happy Birthday</title>
-      <link>https://example.org/posts/chords-for-happy-birthday/</link>
+      <link>https://abezaresdev.github.io/posts/chords-for-happy-birthday/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/chords-for-happy-birthday/</guid>
+      <guid>https://abezaresdev.github.io/posts/chords-for-happy-birthday/</guid>
       <description> C G Happy birthday to you G C Happy birthday to you C F Happy birthday dear BlogRa C Bdim C Happy birthday to you </description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.org/posts/markdown-syntax/</link>
+      <link>https://abezaresdev.github.io/posts/markdown-syntax/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/markdown-syntax/</guid>
+      <guid>https://abezaresdev.github.io/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Write Math Equations</title>
-      <link>https://example.org/posts/write-math-equations/</link>
+      <link>https://abezaresdev.github.io/posts/write-math-equations/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/write-math-equations/</guid>
+      <guid>https://abezaresdev.github.io/posts/write-math-equations/</guid>
       <description>Write math equations with ease. At first enable math:true in front matter.&#xA;Then write this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&#xA;And write this-&#xA;$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$ to produce this-&#xA;$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
     </item>
     <item>
       <title>Make Diagrams with Mermaid</title>
-      <link>https://example.org/posts/make-diagrams-with-mermaid/</link>
+      <link>https://abezaresdev.github.io/posts/make-diagrams-with-mermaid/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/make-diagrams-with-mermaid/</guid>
+      <guid>https://abezaresdev.github.io/posts/make-diagrams-with-mermaid/</guid>
       <description>Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-&#xA;graph TD A[Client] --&amp;gt; B[Load Balancer] B --&amp;gt; C[Server01] B --&amp;gt; D[Server02] to generate diagrams like this-&#xA;Find more about mermaid at mermaid-js.github.io/mermaid/</description>
     </item>
     <item>
       <title>Out Of Line</title>
-      <link>https://example.org/posts/out-of-line/</link>
+      <link>https://abezaresdev.github.io/posts/out-of-line/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/out-of-line/</guid>
+      <guid>https://abezaresdev.github.io/posts/out-of-line/</guid>
       <description>&lt;p&gt;A unique adventure game filled with beautiful puzzles all hand-drawn in a unique 2D style . Out of Line follows the adventures of San in a quest to escape the Factory that was once home. Dive into a story set in a mysterious world that is revealed through multiple chapters.&lt;/p&gt;&#xA;&lt;p&gt;Get it now throguth [XXX XXX]&lt;/p&gt;&#xA;&lt;p&gt;[LINK BUTTON TO EXTERNAL ADDRESS]&lt;/p&gt;&#xA;&lt;p&gt;Never miss an offer. Newsletter, app, share link etc.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Template</title>
-      <link>https://example.org/posts/template/</link>
+      <link>https://abezaresdev.github.io/posts/template/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/template/</guid>
+      <guid>https://abezaresdev.github.io/posts/template/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod scelerisque justo sed faucibus. Nullam quis orci id nulla bibendum facilisis sit amet et odio. Sed sed pretium leo. Curabitur aliquam varius dolor vitae gravida. Nulla facilisi. Praesent eget lectus felis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://example.org/posts/emoji-support/</link>
+      <link>https://abezaresdev.github.io/posts/emoji-support/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/emoji-support/</guid>
+      <guid>https://abezaresdev.github.io/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Epic Games on My New Hugo Site</title>
-    <link>https://example.org/tags/epic-games/</link>
+    <link>https://abezaresdev.github.io/tags/epic-games/</link>
     <description>Recent content in Epic Games on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/epic-games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/tags/epic-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drawn: Trail of Shadows</title>
-      <link>https://example.org/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</link>
+      <link>https://abezaresdev.github.io/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</guid>
+      <guid>https://abezaresdev.github.io/posts/drawn-trials-of-shadows/drawn-trials-of-shadows/</guid>
       <description>Drawn: Trail of Shadows is a puzzle adventure game where players embark on a journey through a magical world filled with mysteries and challenges. With its hand-drawn art style and engaging story, it offers a captivating experience for players of all ages.&#xA;This Markdown content includes the game review for &amp;ldquo;Drawn: Trail of Shadows&amp;rdquo; with today&amp;rsquo;s date set as the default date (2024-04-23), the expiry date set to one year from today (2025-04-23), and the draft status set to false.</description>
     </item>
     <item>
       <title>Ghostrunner</title>
-      <link>https://example.org/posts/ghostrunner/</link>
+      <link>https://abezaresdev.github.io/posts/ghostrunner/</link>
       <pubDate>Thu, 18 Apr 2024 14:14:50 +0000</pubDate>
-      <guid>https://example.org/posts/ghostrunner/</guid>
+      <guid>https://abezaresdev.github.io/posts/ghostrunner/</guid>
       <description>Ghostrunner is a hardcore first-person perspective action game set in a cyberpunk world. Players take on the role of a cybernetic ninja known as the Ghostrunner, equipped with extraordinary abilities and a deadly katana, as they climb the Dharma Tower to confront its tyrannical ruler.</description>
     </item>
   </channel>

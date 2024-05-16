@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
+    <link>https://abezaresdev.github.io/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abezaresdev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nintendo Online</title>
-      <link>https://example.org/tags/nintendo-online/</link>
+      <link>https://abezaresdev.github.io/tags/nintendo-online/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/nintendo-online/</guid>
+      <guid>https://abezaresdev.github.io/tags/nintendo-online/</guid>
       <description></description>
     </item>
     <item>
       <title>Amazon</title>
-      <link>https://example.org/tags/amazon/</link>
+      <link>https://abezaresdev.github.io/tags/amazon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/amazon/</guid>
+      <guid>https://abezaresdev.github.io/tags/amazon/</guid>
       <description></description>
     </item>
     <item>
       <title>Epic Games</title>
-      <link>https://example.org/tags/epic-games/</link>
+      <link>https://abezaresdev.github.io/tags/epic-games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/epic-games/</guid>
+      <guid>https://abezaresdev.github.io/tags/epic-games/</guid>
       <description></description>
     </item>
     <item>
       <title>PC</title>
-      <link>https://example.org/tags/pc/</link>
+      <link>https://abezaresdev.github.io/tags/pc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/pc/</guid>
+      <guid>https://abezaresdev.github.io/tags/pc/</guid>
       <description></description>
     </item>
     <item>
       <title>Freegame</title>
-      <link>https://example.org/tags/freegame/</link>
+      <link>https://abezaresdev.github.io/tags/freegame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/freegame/</guid>
+      <guid>https://abezaresdev.github.io/tags/freegame/</guid>
       <description></description>
     </item>
     <item>
       <title>Xbox Gamepass</title>
-      <link>https://example.org/tags/xbox-gamepass/</link>
+      <link>https://abezaresdev.github.io/tags/xbox-gamepass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/xbox-gamepass/</guid>
+      <guid>https://abezaresdev.github.io/tags/xbox-gamepass/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://example.org/tags/markdown/</link>
+      <link>https://abezaresdev.github.io/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/markdown/</guid>
+      <guid>https://abezaresdev.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>https://example.org/tags/text/</link>
+      <link>https://abezaresdev.github.io/tags/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/text/</guid>
+      <guid>https://abezaresdev.github.io/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Chords</title>
-      <link>https://example.org/tags/chords/</link>
+      <link>https://abezaresdev.github.io/tags/chords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/chords/</guid>
+      <guid>https://abezaresdev.github.io/tags/chords/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://example.org/tags/css/</link>
+      <link>https://abezaresdev.github.io/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/css/</guid>
+      <guid>https://abezaresdev.github.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://example.org/tags/html/</link>
+      <link>https://abezaresdev.github.io/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/html/</guid>
+      <guid>https://abezaresdev.github.io/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>https://example.org/tags/music/</link>
+      <link>https://abezaresdev.github.io/tags/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/music/</guid>
+      <guid>https://abezaresdev.github.io/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://example.org/tags/themes/</link>
+      <link>https://abezaresdev.github.io/tags/themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/themes/</guid>
+      <guid>https://abezaresdev.github.io/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>https://example.org/tags/math/</link>
+      <link>https://abezaresdev.github.io/tags/math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/math/</guid>
+      <guid>https://abezaresdev.github.io/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Mermaid</title>
-      <link>https://example.org/tags/mermaid/</link>
+      <link>https://abezaresdev.github.io/tags/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/mermaid/</guid>
+      <guid>https://abezaresdev.github.io/tags/mermaid/</guid>
       <description></description>
     </item>
     <item>
       <title>Epicgames</title>
-      <link>https://example.org/tags/epicgames/</link>
+      <link>https://abezaresdev.github.io/tags/epicgames/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/epicgames/</guid>
+      <guid>https://abezaresdev.github.io/tags/epicgames/</guid>
       <description></description>
     </item>
     <item>
       <title>Gamepass</title>
-      <link>https://example.org/tags/gamepass/</link>
+      <link>https://abezaresdev.github.io/tags/gamepass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/gamepass/</guid>
+      <guid>https://abezaresdev.github.io/tags/gamepass/</guid>
       <description></description>
     </item>
     <item>
       <title>Xbox</title>
-      <link>https://example.org/tags/xbox/</link>
+      <link>https://abezaresdev.github.io/tags/xbox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/xbox/</guid>
+      <guid>https://abezaresdev.github.io/tags/xbox/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>https://example.org/tags/emoji/</link>
+      <link>https://abezaresdev.github.io/tags/emoji/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/emoji/</guid>
+      <guid>https://abezaresdev.github.io/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
