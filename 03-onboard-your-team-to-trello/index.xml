@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3. Onboard your team to Trello on My New Hugo Site</title>
+    <link>http://localhost:1313/03-onboard-your-team-to-trello/index.html</link>
+    <description>Recent content in 3. Onboard your team to Trello on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/03-onboard-your-team-to-trello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Workspace?</title>
+      <link>http://localhost:1313/03-onboard-your-team-to-trello/01-what-is-a-workspsace/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/03-onboard-your-team-to-trello/01-what-is-a-workspsace/index.html</guid>
+      <description>A Workspace is your team&amp;rsquo;s navigation hub, where everyone can access all the team&amp;rsquo;s boards, members, and Workspace views. Within a Workspace you&amp;rsquo;ll have all the context you need to productively contribute to the collective team effort.
+Workspaces are a place where information can easily be found, shared, and collaborated on. When you join Trello you are automatically added to a Workspace. In this space you can create up to 10 boards for free.</description>
+    </item>
+    <item>
+      <title>Set up a few boards</title>
+      <link>http://localhost:1313/03-onboard-your-team-to-trello/02-set-up-a-few-boards/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/03-onboard-your-team-to-trello/02-set-up-a-few-boards/index.html</guid>
+      <description>Getting everybody to use the same tools can be challenging, here are a few tips to help your team get onboarded to Trello seamlessly.
+Set up Trello boards based on existing team projects and activities The easiest way to onboard a teammate to Trello is to start from a context they already know. Pick an activity or a project your team is already familiar with and create a Trello board to facilitate it.</description>
+    </item>
+    <item>
+      <title>Tips for onboarding success</title>
+      <link>http://localhost:1313/03-onboard-your-team-to-trello/03-tips-for-onboarding-sucess/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/03-onboard-your-team-to-trello/03-tips-for-onboarding-sucess/index.html</guid>
+      <description>Give context to break down silos. When you enter an office, you’ll naturally look around to understand the environment you are stepping into. Same goes with a Trello board—and to help give your team as much context as possible, we recommend filling in the &amp;ldquo;About This Board&amp;rdquo; section. It provides a place to add details about a board&amp;rsquo;s purpose, goals, and so much more. It is helpful to anyone joining your board—from a client, to a new team member, to a temporary stakeholder.</description>
+    </item>
+    <item>
+      <title>Gain cross team perspective</title>
+      <link>http://localhost:1313/03-onboard-your-team-to-trello/04-gain-cross-team-perspective/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/03-onboard-your-team-to-trello/04-gain-cross-team-perspective/index.html</guid>
+      <description>Getting perspective on one&amp;rsquo;s work means being able to look at it from different angles and choosing the one that is the most relevant to your job. The same goes for group work—time spent taking a step back or going deeper into specific details can help your team take the project to the next level.
+With our Workspace Table view you can visualize cards across boards within a Workspace, sort and filter them by various criteria.</description>
+    </item>
+    <item>
+      <title>Additional resources</title>
+      <link>http://localhost:1313/03-onboard-your-team-to-trello/05-additional-resources/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/03-onboard-your-team-to-trello/05-additional-resources/index.html</guid>
+      <description> RESOURCES Solution: Trello Solutions for All Teams
+Blog: How To Use Trello To Manage And Inspire Your Team
+Better Boards for Team collaboration </description>
+    </item>
+  </channel>
+</rss>

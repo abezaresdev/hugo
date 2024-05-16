@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8. Set permissions and admin controls on My New Hugo Site</title>
+    <link>http://localhost:1313/08-set-permissions-and-admin-controls/index.html</link>
+    <description>Recent content in 8. Set permissions and admin controls on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/08-set-permissions-and-admin-controls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workspace administration</title>
+      <link>http://localhost:1313/08-set-permissions-and-admin-controls/01-workspace-administration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/08-set-permissions-and-admin-controls/01-workspace-administration/index.html</guid>
+      <description>??? Do you need to enforce security and privacy across multiple Workspaces? The section below is geared towards Trello Premium users; if you already have a Trello Enterprise account, check out the Trello Enterprise Getting Started Guide - System Admins.
+If you would like to sign up for Trello Enterprise or want more information on the Enterprise admin features, contact us here.
+With your Workspace created, members invited, boards added, and collaboration in full swing, it’s time to take a moment and go over a few ways you can better administer your Workspace.</description>
+    </item>
+    <item>
+      <title>Member and guest permissions</title>
+      <link>http://localhost:1313/08-set-permissions-and-admin-controls/02-member-and-guest-permissions/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/08-set-permissions-and-admin-controls/02-member-and-guest-permissions/index.html</guid>
+      <description>Invite and remove Workspace members Create Workspace invite links Convert guests into Workspace members Board Control View and join Workspace-visible and public boards (provided board settings allow self-join) Workspace Control Edit Workspace profile information, such as name and description Change the Workspace visibility Upgrade the Workspace to Premium Request to add a Workspace to an Enterprise Delete the Workspace If your Workspace requires more granular permissions, such as managing who is an admin or normal member, changing permissions is available as a Trello Premium feature (see the section below Go Big With Premium).</description>
+    </item>
+    <item>
+      <title>User management with Trello Premium</title>
+      <link>http://localhost:1313/08-set-permissions-and-admin-controls/03-user-management-with-trello-premium/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/08-set-permissions-and-admin-controls/03-user-management-with-trello-premium/index.html</guid>
+      <description>As your team grows, you need to make sure that the right people have the right access to Workspace boards. With Trello Premium, Workspace administrators have advanced security features at hand to make sure everything is running smoothly.
+In Trello Premium, teams can supercharge their Trello experience with additional paid security and administrative features:
+Add another admin to your Workspace: In case you, the Workspace creator, is out for vacation or stuck in a meeting, Admin #2 can carry out the actions that need to happen.</description>
+    </item>
+    <item>
+      <title>Additional Resources</title>
+      <link>http://localhost:1313/08-set-permissions-and-admin-controls/04-additional-resources/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/08-set-permissions-and-admin-controls/04-additional-resources/index.html</guid>
+      <description>RESOURCES BLOG: How To Use Trello Premium Like A Pro
+BLOG: Manage Your Team More Securely With Atlassian Access For Trello
+BLOG: Get Your IT Department Onboard With Your Favorite Tools</description>
+    </item>
+  </channel>
+</rss>
