@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5. Powerful collaboration features on My New Hugo Site</title>
+    <link>https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/index.html</link>
+    <description>Recent content in 5. Powerful collaboration features on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create advanced checklists</title>
+      <link>https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/01-create-advanced-checklists/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/01-create-advanced-checklists/index.html</guid>
+      <description>Sometimes a team needs to go a little deeper to bring a project together. You can add due dates and assign members to keep track of the subtasks to accomplish your mission. The advanced checklist functionality lets you polish your project at the micro-level.
+Assign members and dates to checklists items and don’t let small tasks slip through the cracks. Your checklist will then appear in your Calendar view (Views is available with Trello Premium) so you can get more clarity on what lies ahead.</description>
+    </item>
+    <item>
+      <title>Structure information with Custom Fields</title>
+      <link>https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/02-structure-information-with-custom-fields/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/02-structure-information-with-custom-fields/index.html</guid>
+      <description>Keep essential data front and center with Custom Fields and set a clear information hierarchy for your board’s needs. Add valuable details to your Trello cards that are unique to the way you and your team get things done. Add dates, text, numbers, dropdown lists, and checkboxes, and label them exactly the way you want for your team to create unique workflows.
+Check out more information about these paid features available in the Trello Standard, Premium and Enterprise plans here.</description>
+    </item>
+    <item>
+      <title>Additional resources</title>
+      <link>https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/03-additional-resources/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://abezaresdev.github.io/hugo/trellolearning/05-powerful-collaboration-features/03-additional-resources/index.html</guid>
+      <description> RESOURCES BLOG: Brand New Trello Pricing And Unlimited Power-Ups For All BLOG: Advanced checklists: How to track tasks with Trello BLOG: 5 Powerful Automation Tricks With Trello Custom Fields &amp;amp; Butler
+WEBINAR: Take a full tour: Trello Standard and Premium </description>
+    </item>
+  </channel>
+</rss>
